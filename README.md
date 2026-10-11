@@ -1,4 +1,4 @@
-# Necrosylum
+# Necrosylum - Horror Game Prototype
 
 Unreal Engine 5 MVP/prototype.
 
