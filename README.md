@@ -1,5 +1,8 @@
 # Necrosylum - Horror Game Prototype
 
+![Necrosylum gameplay](docs/demo.gif)
+
+
 Unreal Engine 5 MVP/prototype.
 
 This project demonstrates level design, environmental interaction, exploration, atmosphere focused design, and a basic playable gameplay loop.
