@@ -2,7 +2,6 @@
 
 ![Necrosylum gameplay](docs/demo.gif)
 
-
 Unreal Engine 5 MVP/prototype.
 
 Instructions for the game:
